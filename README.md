@@ -1,11 +1,15 @@
-# 🌐⌚ react-timezone-select
+# 🌐⌚ react-city- timezone-select
 
-[![NPM Downloads](https://img.shields.io/npm/dm/react-timezone-select?style=flat-square)](https://www.npmjs.com/package/react-timezone-select)
-[![npm](https://img.shields.io/npm/v/react-timezone-select?style=flat-square)](https://www.npmjs.com/package/react-timezone-select)
-[![GitHub issues](https://img.shields.io/github/issues/ndom91/react-timezone-select?style=flat-square)](https://github.com/ndom91/react-timezone-select/issues)
-[![Skypack](https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg?style=flat-square)](https://skypack.dev/view/react-timezone-select)
-[![Test CI](https://badgen.net/github/checks/ndom91/react-timezone-select/main?style=flat-square&label=tests)](https://github.com/ndom91/react-timezone-select/actions?query=workflow%3A%22Tests+CI%22)
-[![MIT](https://badgen.net/badge/license/MIT/blue?style=flat-square)](https://github.com/ndom91/react-timezone-select/blob/main/LICENSE)
+[![NPM Downloads](https://img.shields.io/npm/dm/react-city-timezone-select?style=flat-square)]()
+[![npm](https://img.shields.io/npm/v/react-city-timezone-select?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/aar2dee2/react-city-timezone-select?style=flat-square)]()
+[![Skypack](https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg?style=flat-square)]()
+[![Test CI](https://badgen.net/github/checks/ndom91/react-city-timezone-select/main?style=flat-square&label=tests)]()
+[![MIT](https://badgen.net/badge/license/MIT/blue?style=flat-square)]()
+
+Forked and built on top of the excellent [React Timezone Select component](https://github.com/ndom91/react-timezone-select) by [@ndom91](https://github.com/ndom91)
+
+`react-city-timezone-select` can be used to select cities or cities + timezones from a dropdown menu.
 
 Another react timezone select component, I know.. However this one has a few key benefits!
 
